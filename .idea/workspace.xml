@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0ea5cfd2-6a99-4ffe-80dc-4025390a90f8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+=======
+    <list default="true" id="0ea5cfd2-6a99-4ffe-80dc-4025390a90f8" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+>>>>>>> 057db0b (Initial commit)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +27,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+>>>>>>> 057db0b (Initial commit)
   </component>
   <component name="ProjectId" id="1ys4be2Tl0GLe6lZG0bypKn0vvG" />
   <component name="ProjectViewState">
@@ -68,6 +86,17 @@
       <option name="presentableId" value="Default" />
       <updated>1633027034781</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1633106917806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633106917806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 057db0b (Initial commit)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,4 +111,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+>>>>>>> 057db0b (Initial commit)
 </project>
